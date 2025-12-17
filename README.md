@@ -7,7 +7,7 @@ The project serves as a **bridging study** connecting concepts from mathematics,
 
 ---
 
-## Objectives
+## Objectives 
 - To empirically analyze how persistent Betti numbers scale with sample size.
 - To study the stability of persistence diagrams under noise perturbations.
 - To compare topological behavior across different random point cloud models.
