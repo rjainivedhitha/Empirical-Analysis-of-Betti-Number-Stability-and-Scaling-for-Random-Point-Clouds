@@ -71,15 +71,13 @@ Disk and Gaussian models show approximately linear scaling, while the circle mod
 ### Finite-Size Scaling
 Motivated by statistical physics, we test a finite-size scaling ansatz:
 
-\[
-M(N,\sigma) \approx N^{\alpha} \mathcal{F}(\sigma N^{\phi})
-\]
+ M(N,σ)≈NαF(σNϕ)
 
 where:
-- \(M\) is the number of persistent H₁ features,
-- \(N\) is the sample size,
-- \(\sigma\) is the noise level,
-- \(\alpha\) and \(\phi\) are scaling exponents.
+- M is the number of persistent H₁ features,
+- N is the sample size,
+- σ is the noise level,
+- α and ϕ are scaling exponents.
 
 Successful collapse of rescaled curves suggests that the combined dependence on noise and sample size can be captured by a universal scaling function.
 
